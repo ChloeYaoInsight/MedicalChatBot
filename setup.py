@@ -1,4 +1,4 @@
-from setuptools import find_packages, setup 
+from setuptool import find_packages, setup 
 
 setup(
     name="Generative AI Project",
